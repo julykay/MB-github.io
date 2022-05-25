@@ -1,0 +1,158 @@
+body{
+	margin: 0;
+	background-color: #efefef;
+}
+
+/*header*/
+.topnav{
+	margin-left: 1%;
+}
+
+
+.menu{
+	background-color:#6C5B7B;
+	margin-top: 0%;
+}
+.topnav a{
+	text-decoration:none;	
+	font-size: 28px;
+	color: white;
+	font-family: 'Mulish', sans-serif;
+	margin-right: 15px;
+	transition: 0.7s;
+}
+.topnav a:hover{
+	color: #F67280;
+	background-color:#eee;
+			
+}
+.bb{
+
+	font-size: 28px;
+	color: #F67280;
+	margin-left: 1%;
+	font-family: 'Press Start 2P', cursive;
+}
+/*history*/
+.bb2{
+	font-size: 28px;
+	color: #F67280;
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+}
+.history{
+	background: linear-gradient(#C06C84, #6C5B7B);
+	margin: 3%;
+	padding: 5%;
+	border-radius: 10%;
+}
+.ccc{
+
+	font-size:18px;
+	color: #eee;
+	font-family: 'Mulish', sans-serif;
+	
+}
+.foto{
+	padding-left: 5%;
+	padding-right: 5%;
+	border-radius: 30%;
+	transition: 0.7s;
+
+}
+.foto:hover{
+	transform: scale(1.2);
+	border-radius: 25%;
+
+}
+/*priroda*/
+.priroda{
+	background-color: white;
+	margin: 3%;
+	padding: 5%;
+	background: linear-gradient(#6C5B7B, #C06C84);
+	border-radius: 10%;
+}
+.ccc .foto2{
+    margin-bottom: -30px;
+}
+.foto2{
+	padding-left: 5%;
+	padding-right: 5%;
+	margin: auto;
+    display: block;
+    border-radius: 30%;
+	transition: 0.7s;
+
+}
+.foto2:hover{
+	transform: scale(1.2);
+	border-radius: 25%;
+
+}
+/*voda*/
+.voda{
+	background-color: white;
+	margin: 3%;
+	background: linear-gradient(#C06C84, #6C5B7B);
+	padding: 5%;
+	border-radius: 10%;
+}
+.hfj{
+	font-size: 30px;
+	color: #eee;
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+}
+/*flora and fauna*/
+.flfa{
+	background-color: white;
+	margin: 3%;
+	padding: 5%;
+	background: linear-gradient( #6C5B7B, #C06C84);
+	border-radius: 10%;
+}
+	/*footer*/
+.fote{
+	text-align: center;
+	color: white;
+	font-family: 'Mulish', sans-serif;
+	font-size: 18px;
+}
+/*dostoprim*/
+.dost{
+	background-color: white;
+	margin: 3%;
+	padding: 5%;
+	background: linear-gradient(#C06C84, #6C5B7B);
+	border-radius: 10%;
+}
+.foto5{
+	
+	margin-right: 25% ;
+	border-radius: 25%;
+	transition: 0.7s;
+
+}
+.foto5:hover{
+	transform: scale(1.2);
+	border-radius: 25%;
+
+}
+.foto6{
+	margin-left: 25%;
+	
+	border-radius: 25%;
+	transition: 0.7s;
+
+}
+.foto6:hover{
+	transform: scale(1.2);
+	border-radius: 25%;
+
+}
+
+footer{
+	background-color: #6C5B7B;
+	padding: 10%;
+}

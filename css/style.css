@@ -1,0 +1,76 @@
+body{
+	margin: 0;
+	background-color: #efefef;
+}
+/*header*/
+ 
+.menu{
+	background-color: #6C5B7B;
+	margin-top: 0%;
+}
+
+.bb{
+
+	font-size: 28px;
+	color: #F67280;
+	margin-left: 1%;
+	font-family: 'Press Start 2P', cursive;
+}
+
+.fote{
+	text-align: center;
+	color: white;
+	font-family: 'Mulish', sans-serif;
+	font-size: 18px;
+}
+/*1*/
+.h1{
+	font-size: 30px;
+	color: #eee;
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+}
+.h2{
+	font-size: 28px;
+	color: #eee;
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+}
+.dos{
+	background: linear-gradient( #6C5B7B, #C06C84);
+	margin: 3%;
+	padding: 5%;
+	border-radius: 10%;
+}
+.dos2{
+	background: linear-gradient(#C06C84, #6C5B7B);
+	margin: 3%;
+	padding: 5%;
+	border-radius: 10%;
+}
+.foto2{
+	padding-left: 5%;
+	padding-right: 5%;
+	margin: auto;
+    display: block;
+    border-radius: 30%;
+	transition: 0.7s;
+
+}
+.foto2:hover{
+	transform: scale(1.2);
+	border-radius: 25%;
+
+}
+.ccc{
+
+	font-size:18px;
+	color: #eee;
+	font-family: 'Mulish', sans-serif;
+	
+}
+
+footer{
+	background-color: #6C5B7B;
+	padding: 10%;
+}
